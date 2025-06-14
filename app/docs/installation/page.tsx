@@ -1,17 +1,16 @@
-"Client";
+"Client"
 
-import React from "react";
 import Image from "next/image"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { ArrowRight, ArrowLeft } from "lucide-react"
 
-export default function QuickStartPage() {
+export default function InstallationPage() {
   return (
     <div className="py-8">
       <div className="mb-8">
-        <Link href="/docs" className="text-purple-400 hover:text-purple-300 flex items-center mb-2">
-          <ArrowLeft className="mr-1 h-4 w-4" /> Back to Documentation
+        <Link href="/docs/quick-start" className="text-purple-400 hover:text-purple-300 flex items-center mb-2">
+          <ArrowLeft className="mr-1 h-4 w-4" /> Back to Quick Start
         </Link>
         <h1 className="text-4xl font-bold mb-6 purple-gradient-text">Quick Start Guide</h1>
         <p className="text-xl text-gray-300 mb-6">
@@ -219,9 +218,9 @@ export default function QuickStartPage() {
       </div>
 
       <div className="mb-12">
-        <h2 className="text-2xl font-bold mb-4 purple-gradient-text">4. Try the AI Assistant</h2>
+        <h2 className="text-2xl font-bold mb-4 purple-gradient-text">4. Try the AI</h2>
         <p className="text-gray-300 mb-4">
-          One of Reflect's most powerful features is the AI assistant. Let's try it out:
+          One of Reflect's most powerful features is the AI, Let's try it out:
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center mb-8">
@@ -369,7 +368,7 @@ export default function QuickStartPage() {
             <h3 className="text-xl font-bold mb-3">Explore Features</h3>
             <p className="text-gray-400 mb-4">Discover all the powerful features Reflect has to offer.</p>
             <Button asChild variant="outline" className="w-full border-purple-500/30 hover:bg-purple-500/10">
-              <Link href="/docs/features">View Features</Link>
+              <Link href="/features">View Features</Link>
             </Button>
           </div>
 
