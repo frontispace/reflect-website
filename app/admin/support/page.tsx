@@ -1,3 +1,5 @@
+"Client"
+
 import type { Metadata } from "next"
 import SupportAgentDashboard from "@/components/support/support-agent-dashboard"
 

@@ -70,7 +70,7 @@ export default function QuickStartPage() {
           <div className="relative purple-glow rounded-xl overflow-hidden border border-purple-500/20">
             <div className="absolute inset-0 bg-gradient-to-b from-purple-600/10 to-transparent"></div>
             <Image
-              src="/placeholder.svg?height=300&width=500"
+              src="/img/Computer.jpeg?height=300&width=500"
               alt="Reflect signup screen"
               width={500}
               height={300}
@@ -153,7 +153,7 @@ export default function QuickStartPage() {
                 </Link>
               </Button>
             </div>
-            <div className="w-24 h-24 bg-white p-2 rounded">
+            <div className="w-24 h-24 bg-purple p-2 rounded">
               <div className="w-full h-full bg-black/10"></div>
             </div>
           </div>
@@ -166,7 +166,7 @@ export default function QuickStartPage() {
           <div className="relative purple-glow rounded-xl overflow-hidden border border-purple-500/20">
             <div className="absolute inset-0 bg-gradient-to-b from-purple-600/10 to-transparent"></div>
             <Image
-              src="/placeholder.svg?height=300&width=500"
+              src="/img/Code-1.png?height=250&width=450"
               alt="Creating a note in Reflect"
               width={500}
               height={300}
@@ -284,7 +284,7 @@ export default function QuickStartPage() {
           <div className="relative purple-glow rounded-xl overflow-hidden border border-purple-500/20">
             <div className="absolute inset-0 bg-gradient-to-b from-purple-600/10 to-transparent"></div>
             <Image
-              src="/placeholder.svg?height=300&width=500"
+              src="/img/Code-2.png?height=300&width=500"
               alt="Using the AI assistant in Reflect"
               width={500}
               height={300}
@@ -304,7 +304,7 @@ export default function QuickStartPage() {
           <div className="relative purple-glow rounded-xl overflow-hidden border border-purple-500/20">
             <div className="absolute inset-0 bg-gradient-to-b from-purple-600/10 to-transparent"></div>
             <Image
-              src="/placeholder.svg?height=300&width=500"
+              src="/img/Code-3.png?height=300&width=500"
               alt="Connecting notes in Reflect"
               width={500}
               height={300}

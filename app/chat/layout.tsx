@@ -1,3 +1,5 @@
+"Client"
+
 import type React from "react"
 
 export default function ChatLayout({

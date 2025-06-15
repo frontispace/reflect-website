@@ -1,3 +1,6 @@
+"Client";
+
+import React from "react";
 import Image from "next/image"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
@@ -32,7 +35,7 @@ export default function Home() {
           <div className="relative max-w-5xl mx-auto purple-glow rounded-xl overflow-hidden border border-purple-500/20">
             <div className="absolute inset-0 bg-gradient-to-b from-purple-600/10 to-transparent"></div>
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Reflect-%20SaaS%20Landing%20Page%20Reflect%20Landing%20Page-KQhaxN1iizviFowIvxbLLKxJmH0dqd.jpeg"
+              src="/img/Colorful-Bitcoin.svg"
               alt="Reflect app interface"
               width={1200}
               height={675}
@@ -178,7 +181,7 @@ export default function Home() {
               <div className="relative purple-glow rounded-xl overflow-hidden border border-purple-500/20">
                 <div className="absolute inset-0 bg-gradient-to-b from-purple-600/10 to-transparent"></div>
                 <Image
-                  src="/placeholder.svg?height=600&width=600"
+                  src="/img/Note.svg?height=600&width=600"
                   alt="AI Assistant Interface"
                   width={600}
                   height={600}

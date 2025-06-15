@@ -23,7 +23,7 @@ export default function CoreConceptsPage() {
         <div className="relative purple-glow rounded-xl overflow-hidden border border-purple-500/20 mb-8">
           <div className="absolute inset-0 bg-gradient-to-b from-purple-600/10 to-transparent"></div>
           <Image
-            src="/placeholder.svg?height=400&width=800"
+            src="/img/Server-Connection.svg?height=400&width=800"
             alt="Reflect Core Concepts Overview"
             width={800}
             height={400}
