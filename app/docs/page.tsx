@@ -79,7 +79,7 @@ export default function DocsPage() {
                 href="/docs/features/ai-assistant"
                 className="text-purple-400 hover:text-purple-300 flex items-center"
               >
-                AI Assistant <ArrowRight className="ml-1 h-3 w-3" />
+                AI ChatGPT <ArrowRight className="ml-1 h-3 w-3" />
               </Link>
             </li>
             <li>

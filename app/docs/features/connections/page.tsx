@@ -28,6 +28,13 @@ export default function ConnectionsPage() {
         <div className="relative purple-glow rounded-xl overflow-hidden border border-purple-500/20 mb-8">
           <div className="absolute inset-0 bg-gradient-to-b from-purple-600/10 to-transparent"></div>
         </div>
+        <Image
+          src="/img/8.jpeg?height=400&width=800"
+          alt="Note Taking Interface"
+          width={800}
+          height={400}
+          className="w-full h-auto"
+        />
 
         <h2 className="text-2xl font-bold mb-4 purple-gradient-text">
           Why Connections Matter

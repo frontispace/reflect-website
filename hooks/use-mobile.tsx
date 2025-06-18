@@ -1,3 +1,5 @@
+"Client";
+// This file is part of the NocoBase (R) project.
 import * as React from "react"
 
 const MOBILE_BREAKPOINT = 768

@@ -1,3 +1,5 @@
+// Removed duplicate import and declaration
+
 import type { Config } from "tailwindcss"
 
 const config: Config = {

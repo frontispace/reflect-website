@@ -35,7 +35,7 @@ export default function Home() {
           <div className="relative max-w-5xl mx-auto purple-glow rounded-xl overflow-hidden border border-purple-500/20">
             <div className="absolute inset-0 bg-gradient-to-b from-purple-600/10 to-transparent"></div>
             <Image
-              src="/img/Colorful-Bitcoin.svg"
+              src="/img/SaaS.jpeg"
               alt="Reflect app interface"
               width={1200}
               height={675}
@@ -56,7 +56,7 @@ export default function Home() {
               Everything you need to think clearly
             </h2>
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-              Reflect combines the best of note-taking, journaling, and AI assistance in one seamless experience
+              Reflect combines the best of note-taking, journaling, and AI v0 in one seamless experience
             </p>
           </div>
 
@@ -125,9 +125,9 @@ export default function Home() {
               <div className="inline-block px-3 py-1 rounded-full bg-purple-900/20 text-purple-400 text-sm font-medium mb-4">
                 AI Assistant
               </div>
-              <h2 className="text-3xl md:text-5xl font-bold mb-6 purple-gradient-text">Notes with an AI assistant</h2>
+              <h2 className="text-3xl md:text-5xl font-bold mb-6 purple-gradient-text">Notes with an AI ChatGPT</h2>
               <p className="text-xl text-gray-300 mb-8">
-                Reflect's AI assistant helps you organize your thoughts, generate ideas, and make connections between
+                Reflect's AI ChatGPT helps you organize your thoughts, generate ideas, and make connections between
                 concepts you might have missed.
               </p>
 
@@ -181,7 +181,7 @@ export default function Home() {
               <div className="relative purple-glow rounded-xl overflow-hidden border border-purple-500/20">
                 <div className="absolute inset-0 bg-gradient-to-b from-purple-600/10 to-transparent"></div>
                 <Image
-                  src="/img/Note.svg?height=600&width=600"
+                  src="/img/API.jpeg?height=600&width=600"
                   alt="AI Assistant Interface"
                   width={600}
                   height={600}

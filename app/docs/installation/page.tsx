@@ -165,7 +165,7 @@ export default function InstallationPage() {
           <div className="relative purple-glow rounded-xl overflow-hidden border border-purple-500/20">
             <div className="absolute inset-0 bg-gradient-to-b from-purple-600/10 to-transparent"></div>
             <Image
-              src="/img/thinking.jpeg?height=300&width=500"
+              src="/img/Keyboard.jpeg??height=300&width=500"
               alt="Creating a note in Reflect"
               width={500}
               height={300}
@@ -283,7 +283,7 @@ export default function InstallationPage() {
           <div className="relative purple-glow rounded-xl overflow-hidden border border-purple-500/20">
             <div className="absolute inset-0 bg-gradient-to-b from-purple-600/10 to-transparent"></div>
             <Image
-              src="/img/keyboard.jpeg?height=300&width=500"
+              src="/img/thinking.jpeg??height=300&width=500"
               alt="Using the AI assistant in Reflect"
               width={500}
               height={300}

@@ -88,7 +88,7 @@ export default function FeaturesPage() {
                 <div className="relative purple-glow rounded-xl overflow-hidden border border-purple-500/20">
                   <div className="absolute inset-0 bg-gradient-to-b from-purple-600/10 to-transparent"></div>
                   <Image
-                    src="/1.jpg?height=400&width=400"
+                    src="/img/conect.jpeg?height=400&width=400"
                     alt="AI Assistant Interface"
                     width={400}
                     height={400}
@@ -104,7 +104,7 @@ export default function FeaturesPage() {
                 <div className="relative purple-glow rounded-xl overflow-hidden border border-purple-500/20">
                   <div className="absolute inset-0 bg-gradient-to-b from-purple-600/10 to-transparent"></div>
                   <Image
-                    src="/2.jpg?height=400&width=400"
+                    src="/img/line.jpeg?height=400&width=400"
                     alt="Connections Interface"
                     width={400}
                     height={400}
@@ -200,7 +200,7 @@ export default function FeaturesPage() {
                 <div className="relative purple-glow rounded-xl overflow-hidden border border-purple-500/20">
                   <div className="absolute inset-0 bg-gradient-to-b from-purple-600/10 to-transparent"></div>
                   <Image
-                    src="/placeholder.svg?height=400&width=400"
+                    src="/img/simple1.jpeg?height=400&width=400"
                     alt="Search Interface"
                     width={400}
                     height={400}
@@ -216,7 +216,7 @@ export default function FeaturesPage() {
                 <div className="relative purple-glow rounded-xl overflow-hidden border border-purple-500/20">
                   <div className="absolute inset-0 bg-gradient-to-b from-purple-600/10 to-transparent"></div>
                   <Image
-                    src="/placeholder.svg?height=400&width=400"
+                    src="/img/simple2.jpeg?height=400&width=400"
                     alt="Editor Interface"
                     width={400}
                     height={400}
